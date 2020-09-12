@@ -1,0 +1,10 @@
+.messages {
+  padding: 5% 0;
+  overflow-y: auto;
+  flex: auto;
+  background-color: #ffffff;
+}
+
+.messages::-webkit-scrollbar {
+  display: none; /* hide scrollbar */
+}
